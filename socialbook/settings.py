@@ -68,7 +68,7 @@ TEMPLATES = [
         },
     },
 ]
-
+AUTH_PROFILE_MODULE = 'accounts.UserProfile'
 WSGI_APPLICATION = 'socialbook.wsgi.application'
 
 
