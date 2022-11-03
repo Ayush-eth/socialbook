@@ -1,1 +1,1 @@
-web: gunicorn socialbook.wsgi --log-file -
+web: gunicorn socialbook.wsgi
