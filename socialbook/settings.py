@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-w6-(cj0a0=2cj#&jsc1$0nwc830e7vw)rv6%lw^@5@3hhj!a^#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','college-book.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','college-book.herokuapp.com', 'social-book.up.railway.app']
 
 
 # Application definition
